@@ -1,0 +1,19 @@
+<svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="254" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ faye@1.2.4 </tspan>
+<tspan x="10" y="90">  ├── asap@2.0.5 </tspan>
+<tspan x="10" y="106">  ├─┬ csprng@0.1.2 </tspan>
+<tspan x="10" y="122">  │ └── sequin@0.1.1 </tspan>
+<tspan x="10" y="138">  ├─┬ faye-websocket@0.11.1 </tspan>
+<tspan x="10" y="154">  │ └─┬ websocket-driver@0.6.5 </tspan>
+<tspan x="10" y="170">  │   └── websocket-extensions@0.1.1 </tspan>
+<tspan x="10" y="186">  ├─┬ tough-cookie@2.3.2 </tspan>
+<tspan x="10" y="202">  │ └── punycode@1.4.1 </tspan>
+<tspan x="10" y="218">  └─┬ tunnel-agent@0.6.0 </tspan>
+<tspan x="10" y="234">    └── safe-buffer@5.0.1</tspan>
+</text>
+</svg>
