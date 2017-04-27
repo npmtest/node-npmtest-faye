@@ -1,6 +1,6 @@
 # npmtest-faye
 
-#### test coverage for  [faye (v1.2.4)](https://faye.jcoglan.com)  [![npm package](https://img.shields.io/npm/v/npmtest-faye.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-faye) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-faye.svg)](https://travis-ci.org/npmtest/node-npmtest-faye)
+#### basic test coverage for  [faye (v1.2.4)](https://faye.jcoglan.com)  [![npm package](https://img.shields.io/npm/v/npmtest-faye.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-faye) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-faye.svg)](https://travis-ci.org/npmtest/node-npmtest-faye)
 
 #### Simple pub/sub messaging for the web
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-faye/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-faye/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-faye/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-faye/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-faye/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-faye/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-faye/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-faye/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-faye/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-faye/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-faye/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-faye/build/coverage.html/index.html)
 
@@ -94,7 +94,8 @@
         "promise": "promises-aplus-tests src/util/promise.js",
         "test": "find spec -name '*_spec.js' | xargs jstest"
     },
-    "version": "1.2.4"
+    "version": "1.2.4",
+    "bin": {}
 }
 ```
 
